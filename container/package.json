@@ -1,0 +1,21 @@
+{
+  "name": "video-transcoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tsc -b && node dist/index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/pubsub": "^5.1.0",
+    "@google-cloud/storage": "^7.16.0",
+    "@types/dotenv": "^6.1.1",
+    "@types/fluent-ffmpeg": "^2.1.27",
+    "dotenv": "^17.0.1",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
