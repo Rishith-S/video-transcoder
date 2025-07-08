@@ -2,7 +2,7 @@
 This project is a backend-driven video transcoding pipeline that automates video upload, processing, and delivery. It is designed for scalability and reliability, leveraging GCP’s storage, messaging, and database services, and uses FFMPEG for high-quality transcoding.
 
 # Project Preview
-https://github.com/user-attachments/assets/f65affd2-bbbd-49fd-b8a0-2a93d8866333
+https://github.com/user-attachments/assets/bd92c648-3fa5-4409-b292-0a2b19fb4335
 
 # Architecture Overview
 <img width="600" height="600" alt="Screenshot 2025-07-08 at 9 47 35 AM" src="https://github.com/user-attachments/assets/ab636f6d-51f1-424a-ae9f-cd21ad469da2" />
